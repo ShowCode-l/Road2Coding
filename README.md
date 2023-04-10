@@ -1,17 +1,5 @@
 
 
-<p align="center" style="color:blue">
-  <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-    <h2 align="center">
-        仓库内容持续更新中...
-    </h2>
-  </a>
-</p>
-
-<!-- <p>
-  <br>
-</p> -->
-
 <p align="center">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/r2coding_logo_index.15y992dieibg.png" width=""/>
@@ -27,25 +15,6 @@
     <img src="https://img.shields.io/badge/微信联系作者-WeChat-green.svg" alt="微信联系">
   </a>
 </p>
-
-自学之路漫又长，唯有不断总结，不断回味，不断分享，才能成长！
-
-联系我可以[【微信】](#微信)私我
-
----
-# **为什么会有这个开源仓库**
----
-
-本仓库取名 **r2coding**，即 **Road To Coding**，意为「编程自学之路」，是自学编程以来所用资源和分享内容的大聚合。
-
-旨在为编程自学者提供一系列：
->  - **清晰的编程自学路线**
->  - **各编程岗位方向的知识点梳理**
->  - **靠谱的资源**
->  - **高效的工具**
->  - **务实的技术文章**
-
-方便自己也方便他人。仓库内容会保持**持续更新**，欢迎收藏品鉴！
 
 ---
 # **本仓库内容地图**
@@ -1462,20 +1431,6 @@
   - [0x00000011](https://sspai.com/)
 
 ---
-
-# **联系作者**
-
----
-
-## 关于作者
-
-- 普通开发者，热情的学习者，狂热的数码迷
-- 90后，硕士毕业于华中科技大学电信专业，现从事IT类工作
-- 目前在南京栖息，天天被业务折腾得死去活来的同时依然保有对各项技术热忱的追求
-- 参加工作以后越来越理解交流与分享的重要性，我在不停地汲取大家宝贵经验的同时，也想回馈自己的所学所感给读者
-- 本仓库是作者自学编程以来所用资源和分享内容的聚合，旨在为编程自学者提供一系列清晰的学习路线/靠谱的资源/高效的工具/务实的技术文章，方便自己也方便他人。网站内容会保持持续更新，欢迎收藏品鉴
-
----
 ## 心路历程
 
 - [2021-12-23：我的小网站被打挂了。](https://mp.weixin.qq.com/s/VtgMAMRoox97p6e8hyONng)
@@ -1534,8 +1489,3 @@
 </p>
 
 
----
-
-# 持续更新中...
-
-[本仓库内容会持续保持更新 → 欢迎收藏品鉴！](https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww)
