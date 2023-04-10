@@ -1,3 +1,6 @@
+## 编程语言
+
+---
 ## Spring系列框架
 
 <!-- panels:start -->
@@ -51,7 +54,110 @@
 - [面试相关：说说Spring用到了哪些设计模式？](https://mp.weixin.qq.com/s/ZcKqGT2Sn4wVScExSF9Alg)
 - 内容持续更新中...
 
+<!-- tabs:start -->
 
+---
+
+## 数据库/SQL
+
+- [原理探究：详解一条SQL的执行过程](https://mp.weixin.qq.com/s/OnGaqyUpB58pC2rqqzIzgw)
+- [原理探究：MySQL的数据存在磁盘上到底长什么样](https://mp.weixin.qq.com/s/36Jaj79Y8BxFoDB3Bwe7mg)
+- [原理探究：数据库索引到底是什么](https://mp.weixin.qq.com/s/WMuxdG3ymNMWWDk1XhLwZQ)
+- [原理探究：为什么MySQL索引要用B+ tree](https://mp.weixin.qq.com/s/d7Zfat2fP6IX5DMKKtEIjQ)
+- [原理探究：为什么用了索引，SQL查询还是慢](https://mp.weixin.qq.com/s/-mOOchaXx_pKI6qWhohEnA)
+- [原理探究：数据库索引的原理和使用准则](https://mp.weixin.qq.com/s/4K3borSZXt-yc5t5UJnJpQ)
+- [原理探究：为什么你写的SQL那么慢](https://mp.weixin.qq.com/s/iBnav_WPrX5vjR-NbdNeQg)
+- [原理探究：count(1)和count(*)到底哪个效率高](https://mp.weixin.qq.com/s/lyAFcnZIoyhACw78Nf9xQg)
+- [原理探究：为什么阿里规定超过三张表禁止join](https://mp.weixin.qq.com/s/7vN9Nf20NGnvLKALHw_O1Q)
+- [原理研究：什么是MySQL索引下推？](https://mp.weixin.qq.com/s/aPVs9Jrk07KsXcXdPOpx5A)
+- [原理探究：为什么大公司后台数据库都要搞分库分表？](https://mp.weixin.qq.com/s/yflzIQFiNa3tDJm7U9P8ig)
+- [原理探究：MySQL不会丢失数据的奥秘就藏在这里](https://mp.weixin.qq.com/s/QBeyJz2gVq1p7wBxcY1Gfw)
+- [原理探究：MySQL主从复制那些事儿](https://mp.weixin.qq.com/s/CCLsmKSsodtkz4iX84Cdig)
+- [实践应用：常见的SQL错误（不当）写法例析](https://mp.weixin.qq.com/s/caBYeVtZvNzbSs4q-6710Q)
+- [实践应用：SQL优化的几个角度](https://mp.weixin.qq.com/s/hl11JYMwl30FsDVZ40CLVQ)
+- [实践应用：数据库、数据表设计规范例析](https://mp.weixin.qq.com/s/hE2uKE2ffNCmeHLRn2KSTQ)
+- [实践应用：梳理开发中常用的SQL优化途径](https://mp.weixin.qq.com/s/jl0j-T6XldN6Nq-jYoQ-gA)
+- [实践应用：先更新数据库还是先更新缓存？](https://mp.weixin.qq.com/s/SPgtpfgv6bz2AfPa1CYYeQ)
+- [实践应用：百亿级数据分表后如何分页查](https://mp.weixin.qq.com/s/EplL3kBx5vOXGDhDOP8NjQ)
+- [实践应用：什么是SQL注入攻击](https://mp.weixin.qq.com/s/mnZT0Z5L6Hi6gRgEO1C9tg)
+- [实践应用：用对这些场景下的数据库索引，领导说我有点东西](https://mp.weixin.qq.com/s/4K3borSZXt-yc5t5UJnJpQ)
+- [实践应用：一个遗留项目的SQL优化实战录](https://mp.weixin.qq.com/s/MA7FVeJDMg8WDJABiBWpBA)
+- [实践应用：误删数据库后该如何恢复](https://mp.weixin.qq.com/s/UYZZkrbAetgnPUjGa71fJA)
+- [实践应用：如何科学根治慢SQL？](https://mp.weixin.qq.com/s/eQKphrkPeN_-EcWIxETz9Q)
+- [面试相关：面试官最爱的数据库索引连环问](https://mp.weixin.qq.com/s/MLvJsJuFAHHcllqvk1nVRQ)
+- [面试相关：30道保底的MySQL数据库面试题集合](https://mp.weixin.qq.com/s/aBboeqEphejICklAKLqS2Q)
+- [面试相关：数据库自增ID用完了会怎样](https://mp.weixin.qq.com/s/WqM5mhnLOqZhcdzPLeWh5w)
+- [面试相关：如何保证缓存和数据库的一致性问题？](https://mp.weixin.qq.com/s/RDOKLnG7P1j5Ehu3EyrsCQ)
+- [面试相关：面试官最爱的MySQL连环问](https://mp.weixin.qq.com/s/8ddEzG-NzzFD35ehvbER7A)
+- [面试相关：如何实现丝滑的数据库扩容](https://mp.weixin.qq.com/s/1VCC3i6ZCk7sb9kVRZ1czQ)
+
+---
+
+#### **Java**
+
+
+- **基本功趣味学习（精讲）**
+
+  - [资源下载 → Java基础核心知识大总结pdf笔记下载](https://mp.weixin.qq.com/s/jn7oraFlhRkOmiv3rh74WA)
+  - [夯实基本功之：Java程序员找对象攻虐！](https://mp.weixin.qq.com/s/aZg9SZT3DWkCkEsjlUjTtQ)
+  - [夯实基本功之：浮点数在计算机中是如何表示的](https://mp.weixin.qq.com/s/LVpvmBO0GY6TC4gwL_12Yw)
+  - [夯实基本功之：flaot和double使用时的大坑](https://mp.weixin.qq.com/s/UyYDt3HB8IO_AoSDLndhxA)
+  - [夯实基本功之：为什么要面向接口编程](https://mp.weixin.qq.com/s/Dg9LcKJBrabcnvC_6wga-A)
+  - [夯实基本功之：枚举精讲](https://mp.weixin.qq.com/s/DgOr7cat8SP0zoY7Ke3toQ)
+  - [夯实基本功之：深拷贝/浅拷贝精讲](https://mp.weixin.qq.com/s/ypCIMGxyp7AX5cxG5UJ1Hg)
+  - [夯实基本功之：序列化和反序列化精讲](https://mp.weixin.qq.com/s/0EfIUB9E-0Oh_Clwuxswuw)
+  - [夯实基本功之：函数式编程例析](https://mp.weixin.qq.com/s/yI82juBiirJ56BZfGJezLw)
+  - [夯实基本功之：如何去掉冗长的if/else代码](https://mp.weixin.qq.com/s/ufRf8DQQRYQI0q2VxG3hQg)
+  - [夯实基本功之：注解精讲](https://mp.weixin.qq.com/s/gdYysBB3aD_HmPyvEThFXw)
+  - [夯实基本功之：为什么不要用Date表示时间](https://mp.weixin.qq.com/s/v-Va_GuSUGr9HVAW84kloQ)
+  - [夯实基本功之：去除烦人的NullPointerException空指针异常](https://mp.weixin.qq.com/s/RsC7peRsFaJAEcG2eTJb0Q)
+  - [夯实基本功之：为什么要重写hashcode和equals方法](https://mp.weixin.qq.com/s/QZPezSruj0qvBUJEM4jB0g)
+  - [夯实基本功之：Object类精讲](https://mp.weixin.qq.com/s/eJy74CbzthHMgRPOA_4wEA)
+  - [夯实基本功之：List使用踩坑记录](https://mp.weixin.qq.com/s/9bw2-pkuYSKEnstb4KGsqQ)
+  - [夯实基本功之：Map使用踩坑记录](https://mp.weixin.qq.com/s/D21mcfI4cxNf4D9ukjESog)
+  - [夯实基本功之：面试必问的ConcurrentHashMap精讲](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
+  - [夯实基本功之：死磕Java I/O流知识](https://mp.weixin.qq.com/s/xzV0uiQ0Q2ii5I54f8DPWQ)
+  - [夯实基本功之：你一般是怎么遍历HashMap的](https://mp.weixin.qq.com/s/d93H9TwJKSnpkSBMYJ7QWQ)
+  - [夯实基本功之：try-catch的使用姿势](https://mp.weixin.qq.com/s/AbZH57nUtePC728XfCvrcw)
+  - [夯实基本功之：if和swictch性能例析](https://mp.weixin.qq.com/s/YbXBWhSlZTwY_bBqpNP2YA)
+  - [夯实基本功之：Java HashMap源码剖析](https://mp.weixin.qq.com/s/xv0GmAU8fVlS_sxWKWUWYw)
+  - [夯实基本功之：String性能提升10倍的几个用法](https://mp.weixin.qq.com/s/KRRLt0EaIwDEPCTGvqnWJA)
+  - [实践篇：Java源码编译实战](https://mp.weixin.qq.com/s/K0ehqbxrzSz07nqnqRvn5A)
+  - [面试篇：这10道基础Java面试题，虐哭了多少人](https://mp.weixin.qq.com/s/oBDrFnuk1lbfuNHkrhAC5w)
+  - [面试篇：Java基础知识面试题大集合](https://mp.weixin.qq.com/s/f-qIQGbzwHcW5Ur51rCqgg)
+  - [Java 11新特性例析](https://mp.weixin.qq.com/s/kNMQp-vjVK6Fq07xalZkng)
+  - [Java 15新特性例析](https://mp.weixin.qq.com/s/1SVao6dMMLhNoFTOvnLy8g)
+  - [科普：Java收不收费跟我们有毛关系吗？](https://mp.weixin.qq.com/s/QrWASACHkMGVop7gNe2DOA)
+
+
+- **多线程和并发**
+
+  - [资源下载 → Java多线程+并发编程知识点详细总结PDF文档下载！](https://mp.weixin.qq.com/s/EGQAuvITVJT3fZUdQG84sw)
+  - [夯实基本功之：Java并发之原子性、有序性、可见性](https://mp.weixin.qq.com/s/30__VavtpJxEojUjYglGhQ)
+  - [夯实基本功之：ThreadLocal源码剖析](https://mp.weixin.qq.com/s/ND-nUCGvXTHkEClKqN1qrQ)
+  - [夯实基本功之：Java线程池使用例析](https://mp.weixin.qq.com/s/TF04dB-i0q0-dOTqlprmYA)
+  - [夯实基本功之：彻底搞懂多线程中的volatile](https://mp.weixin.qq.com/s/fxl3od5UObRrPGe2AVvAPA)
+  - [夯实基本功之：面试必问的ConcurrentHashMap精讲](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
+  - [夯实基本功之：详解Java并发编程中的各种锁](https://mp.weixin.qq.com/s/Sb1tZC_6CWE57TKvJeMmkA)
+  - [Java并发和多线程基础面试题大集合](https://mp.weixin.qq.com/s/pIVf97W4DuAPNxq6zgRvsQ)
+  - [科普向：Java线程和操作系统的线程到底有啥区别？](https://mp.weixin.qq.com/s/ykQ8wkBr-jHzbcD-7HGMEQ)
+
+
+- **JVM虚拟机**
+
+  - [夯实基本功之：Java内存模型精讲](https://mp.weixin.qq.com/s/lEgHPertXyguZIkv61LlKQ)
+  - [夯实基本功之：面试必问的JVM GC机制](https://mp.weixin.qq.com/s/bHkgpznnqixDNyDKwdAbOg)
+  - [夯实基本功之：JVM垃圾回收硬核18问（附答案）](https://mp.weixin.qq.com/s/XsZUF2nBUSEJoGIA8RimJw)
+  - [夯实基本功之：搞懂JVM的三大参数类型](https://mp.weixin.qq.com/s/TlX81xJ9fnuDIOTkDxrd1Q)
+  - [夯实基本功之：了解G1垃圾收集器](https://mp.weixin.qq.com/s/KASLkkZnjGwVgm_1jbe-mA)
+  - [实践篇：JDK源码编译上手实践](https://mp.weixin.qq.com/s/MDM6w2Dw_HYc9XzZevQNeA)
+  - [实践篇：线上服务的YGC问题排查例析](https://mp.weixin.qq.com/s/-8xYoAkBUoavcSl69I0XJw)
+  - [实践篇：线上服务的FGC问题排查例析](https://mp.weixin.qq.com/s/Sjh9qFPKF250vLQGZig6nw)
+  - [面试题：Java虚拟机（JVM）面试题大集合1](https://mp.weixin.qq.com/s/T2DqgJ9-0QiRZQYUeR3c8w)
+  - [面试题：Java虚拟机（JVM）面试题大集合2](https://mp.weixin.qq.com/s/ZYoeC8yyfReEJDFSqiW8hw)
+
+
+<!-- tabs:end -->
 
 ---
 # **本仓库内容地图**
@@ -565,81 +671,11 @@
 
 ---
 
-## 编程语言
 
----
 
 语言在精不在多，切记！完全掌握了一门语言，上手其他的都不难！
 
 ---
-
-<!-- tabs:start -->
-
-#### **Java**
-
-
-- **基本功趣味学习（精讲）**
-
-  - [资源下载 → Java基础核心知识大总结pdf笔记下载](https://mp.weixin.qq.com/s/jn7oraFlhRkOmiv3rh74WA)
-  - [夯实基本功之：Java程序员找对象攻虐！](https://mp.weixin.qq.com/s/aZg9SZT3DWkCkEsjlUjTtQ)
-  - [夯实基本功之：浮点数在计算机中是如何表示的](https://mp.weixin.qq.com/s/LVpvmBO0GY6TC4gwL_12Yw)
-  - [夯实基本功之：flaot和double使用时的大坑](https://mp.weixin.qq.com/s/UyYDt3HB8IO_AoSDLndhxA)
-  - [夯实基本功之：为什么要面向接口编程](https://mp.weixin.qq.com/s/Dg9LcKJBrabcnvC_6wga-A)
-  - [夯实基本功之：枚举精讲](https://mp.weixin.qq.com/s/DgOr7cat8SP0zoY7Ke3toQ)
-  - [夯实基本功之：深拷贝/浅拷贝精讲](https://mp.weixin.qq.com/s/ypCIMGxyp7AX5cxG5UJ1Hg)
-  - [夯实基本功之：序列化和反序列化精讲](https://mp.weixin.qq.com/s/0EfIUB9E-0Oh_Clwuxswuw)
-  - [夯实基本功之：函数式编程例析](https://mp.weixin.qq.com/s/yI82juBiirJ56BZfGJezLw)
-  - [夯实基本功之：如何去掉冗长的if/else代码](https://mp.weixin.qq.com/s/ufRf8DQQRYQI0q2VxG3hQg)
-  - [夯实基本功之：注解精讲](https://mp.weixin.qq.com/s/gdYysBB3aD_HmPyvEThFXw)
-  - [夯实基本功之：为什么不要用Date表示时间](https://mp.weixin.qq.com/s/v-Va_GuSUGr9HVAW84kloQ)
-  - [夯实基本功之：去除烦人的NullPointerException空指针异常](https://mp.weixin.qq.com/s/RsC7peRsFaJAEcG2eTJb0Q)
-  - [夯实基本功之：为什么要重写hashcode和equals方法](https://mp.weixin.qq.com/s/QZPezSruj0qvBUJEM4jB0g)
-  - [夯实基本功之：Object类精讲](https://mp.weixin.qq.com/s/eJy74CbzthHMgRPOA_4wEA)
-  - [夯实基本功之：List使用踩坑记录](https://mp.weixin.qq.com/s/9bw2-pkuYSKEnstb4KGsqQ)
-  - [夯实基本功之：Map使用踩坑记录](https://mp.weixin.qq.com/s/D21mcfI4cxNf4D9ukjESog)
-  - [夯实基本功之：面试必问的ConcurrentHashMap精讲](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
-  - [夯实基本功之：死磕Java I/O流知识](https://mp.weixin.qq.com/s/xzV0uiQ0Q2ii5I54f8DPWQ)
-  - [夯实基本功之：你一般是怎么遍历HashMap的](https://mp.weixin.qq.com/s/d93H9TwJKSnpkSBMYJ7QWQ)
-  - [夯实基本功之：try-catch的使用姿势](https://mp.weixin.qq.com/s/AbZH57nUtePC728XfCvrcw)
-  - [夯实基本功之：if和swictch性能例析](https://mp.weixin.qq.com/s/YbXBWhSlZTwY_bBqpNP2YA)
-  - [夯实基本功之：Java HashMap源码剖析](https://mp.weixin.qq.com/s/xv0GmAU8fVlS_sxWKWUWYw)
-  - [夯实基本功之：String性能提升10倍的几个用法](https://mp.weixin.qq.com/s/KRRLt0EaIwDEPCTGvqnWJA)
-  - [实践篇：Java源码编译实战](https://mp.weixin.qq.com/s/K0ehqbxrzSz07nqnqRvn5A)
-  - [面试篇：这10道基础Java面试题，虐哭了多少人](https://mp.weixin.qq.com/s/oBDrFnuk1lbfuNHkrhAC5w)
-  - [面试篇：Java基础知识面试题大集合](https://mp.weixin.qq.com/s/f-qIQGbzwHcW5Ur51rCqgg)
-  - [Java 11新特性例析](https://mp.weixin.qq.com/s/kNMQp-vjVK6Fq07xalZkng)
-  - [Java 15新特性例析](https://mp.weixin.qq.com/s/1SVao6dMMLhNoFTOvnLy8g)
-  - [科普：Java收不收费跟我们有毛关系吗？](https://mp.weixin.qq.com/s/QrWASACHkMGVop7gNe2DOA)
-
-
-- **多线程和并发**
-
-  - [资源下载 → Java多线程+并发编程知识点详细总结PDF文档下载！](https://mp.weixin.qq.com/s/EGQAuvITVJT3fZUdQG84sw)
-  - [夯实基本功之：Java并发之原子性、有序性、可见性](https://mp.weixin.qq.com/s/30__VavtpJxEojUjYglGhQ)
-  - [夯实基本功之：ThreadLocal源码剖析](https://mp.weixin.qq.com/s/ND-nUCGvXTHkEClKqN1qrQ)
-  - [夯实基本功之：Java线程池使用例析](https://mp.weixin.qq.com/s/TF04dB-i0q0-dOTqlprmYA)
-  - [夯实基本功之：彻底搞懂多线程中的volatile](https://mp.weixin.qq.com/s/fxl3od5UObRrPGe2AVvAPA)
-  - [夯实基本功之：面试必问的ConcurrentHashMap精讲](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
-  - [夯实基本功之：详解Java并发编程中的各种锁](https://mp.weixin.qq.com/s/Sb1tZC_6CWE57TKvJeMmkA)
-  - [Java并发和多线程基础面试题大集合](https://mp.weixin.qq.com/s/pIVf97W4DuAPNxq6zgRvsQ)
-  - [科普向：Java线程和操作系统的线程到底有啥区别？](https://mp.weixin.qq.com/s/ykQ8wkBr-jHzbcD-7HGMEQ)
-
-
-- **JVM虚拟机**
-
-  - [夯实基本功之：Java内存模型精讲](https://mp.weixin.qq.com/s/lEgHPertXyguZIkv61LlKQ)
-  - [夯实基本功之：面试必问的JVM GC机制](https://mp.weixin.qq.com/s/bHkgpznnqixDNyDKwdAbOg)
-  - [夯实基本功之：JVM垃圾回收硬核18问（附答案）](https://mp.weixin.qq.com/s/XsZUF2nBUSEJoGIA8RimJw)
-  - [夯实基本功之：搞懂JVM的三大参数类型](https://mp.weixin.qq.com/s/TlX81xJ9fnuDIOTkDxrd1Q)
-  - [夯实基本功之：了解G1垃圾收集器](https://mp.weixin.qq.com/s/KASLkkZnjGwVgm_1jbe-mA)
-  - [实践篇：JDK源码编译上手实践](https://mp.weixin.qq.com/s/MDM6w2Dw_HYc9XzZevQNeA)
-  - [实践篇：线上服务的YGC问题排查例析](https://mp.weixin.qq.com/s/-8xYoAkBUoavcSl69I0XJw)
-  - [实践篇：线上服务的FGC问题排查例析](https://mp.weixin.qq.com/s/Sjh9qFPKF250vLQGZig6nw)
-  - [面试题：Java虚拟机（JVM）面试题大集合1](https://mp.weixin.qq.com/s/T2DqgJ9-0QiRZQYUeR3c8w)
-  - [面试题：Java虚拟机（JVM）面试题大集合2](https://mp.weixin.qq.com/s/ZYoeC8yyfReEJDFSqiW8hw)
-
-
-<!-- tabs:end -->
 
 ---
 
@@ -748,42 +784,6 @@
 - [面试相关：1.3w字的操作系统高频面试题大分享](https://mp.weixin.qq.com/s/oTEMOQY1xcG8uVceW-kLDA)
 - [面试相关：学完操作系统内存管理，能回答这8个问题吗](https://mp.weixin.qq.com/s/5f3ku77xSO8UlaOsTkOnHQ)
 
----
-
-## 数据库/SQL
-
-- [原理探究：详解一条SQL的执行过程](https://mp.weixin.qq.com/s/OnGaqyUpB58pC2rqqzIzgw)
-- [原理探究：MySQL的数据存在磁盘上到底长什么样](https://mp.weixin.qq.com/s/36Jaj79Y8BxFoDB3Bwe7mg)
-- [原理探究：数据库索引到底是什么](https://mp.weixin.qq.com/s/WMuxdG3ymNMWWDk1XhLwZQ)
-- [原理探究：为什么MySQL索引要用B+ tree](https://mp.weixin.qq.com/s/d7Zfat2fP6IX5DMKKtEIjQ)
-- [原理探究：为什么用了索引，SQL查询还是慢](https://mp.weixin.qq.com/s/-mOOchaXx_pKI6qWhohEnA)
-- [原理探究：数据库索引的原理和使用准则](https://mp.weixin.qq.com/s/4K3borSZXt-yc5t5UJnJpQ)
-- [原理探究：为什么你写的SQL那么慢](https://mp.weixin.qq.com/s/iBnav_WPrX5vjR-NbdNeQg)
-- [原理探究：count(1)和count(*)到底哪个效率高](https://mp.weixin.qq.com/s/lyAFcnZIoyhACw78Nf9xQg)
-- [原理探究：为什么阿里规定超过三张表禁止join](https://mp.weixin.qq.com/s/7vN9Nf20NGnvLKALHw_O1Q)
-- [原理研究：什么是MySQL索引下推？](https://mp.weixin.qq.com/s/aPVs9Jrk07KsXcXdPOpx5A)
-- [原理探究：为什么大公司后台数据库都要搞分库分表？](https://mp.weixin.qq.com/s/yflzIQFiNa3tDJm7U9P8ig)
-- [原理探究：MySQL不会丢失数据的奥秘就藏在这里](https://mp.weixin.qq.com/s/QBeyJz2gVq1p7wBxcY1Gfw)
-- [原理探究：MySQL主从复制那些事儿](https://mp.weixin.qq.com/s/CCLsmKSsodtkz4iX84Cdig)
-- [实践应用：常见的SQL错误（不当）写法例析](https://mp.weixin.qq.com/s/caBYeVtZvNzbSs4q-6710Q)
-- [实践应用：SQL优化的几个角度](https://mp.weixin.qq.com/s/hl11JYMwl30FsDVZ40CLVQ)
-- [实践应用：数据库、数据表设计规范例析](https://mp.weixin.qq.com/s/hE2uKE2ffNCmeHLRn2KSTQ)
-- [实践应用：梳理开发中常用的SQL优化途径](https://mp.weixin.qq.com/s/jl0j-T6XldN6Nq-jYoQ-gA)
-- [实践应用：先更新数据库还是先更新缓存？](https://mp.weixin.qq.com/s/SPgtpfgv6bz2AfPa1CYYeQ)
-- [实践应用：百亿级数据分表后如何分页查](https://mp.weixin.qq.com/s/EplL3kBx5vOXGDhDOP8NjQ)
-- [实践应用：什么是SQL注入攻击](https://mp.weixin.qq.com/s/mnZT0Z5L6Hi6gRgEO1C9tg)
-- [实践应用：用对这些场景下的数据库索引，领导说我有点东西](https://mp.weixin.qq.com/s/4K3borSZXt-yc5t5UJnJpQ)
-- [实践应用：一个遗留项目的SQL优化实战录](https://mp.weixin.qq.com/s/MA7FVeJDMg8WDJABiBWpBA)
-- [实践应用：误删数据库后该如何恢复](https://mp.weixin.qq.com/s/UYZZkrbAetgnPUjGa71fJA)
-- [实践应用：如何科学根治慢SQL？](https://mp.weixin.qq.com/s/eQKphrkPeN_-EcWIxETz9Q)
-- [面试相关：面试官最爱的数据库索引连环问](https://mp.weixin.qq.com/s/MLvJsJuFAHHcllqvk1nVRQ)
-- [面试相关：30道保底的MySQL数据库面试题集合](https://mp.weixin.qq.com/s/aBboeqEphejICklAKLqS2Q)
-- [面试相关：数据库自增ID用完了会怎样](https://mp.weixin.qq.com/s/WqM5mhnLOqZhcdzPLeWh5w)
-- [面试相关：如何保证缓存和数据库的一致性问题？](https://mp.weixin.qq.com/s/RDOKLnG7P1j5Ehu3EyrsCQ)
-- [面试相关：面试官最爱的MySQL连环问](https://mp.weixin.qq.com/s/8ddEzG-NzzFD35ehvbER7A)
-- [面试相关：如何实现丝滑的数据库扩容](https://mp.weixin.qq.com/s/1VCC3i6ZCk7sb9kVRZ1czQ)
-
----
 
 ## 设计模式
 
