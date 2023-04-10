@@ -1,21 +1,3 @@
-
-
-<p align="center">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/r2coding_logo_index.15y992dieibg.png" width=""/>
-    </a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
-  <a href="https://gitee.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Gitee-r2coding-blue.svg"></a>
-  <a href="https://space.bilibili.com/384068749" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical"></a>
-  <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-    <img src="https://img.shields.io/badge/微信联系作者-WeChat-green.svg" alt="微信联系">
-  </a>
-</p>
-
 ---
 # **本仓库内容地图**
 ---
@@ -62,35 +44,9 @@
 
 详情链接 **→** [《前端开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/_8lvpPDArM_Z-MI9iul1AA)
 
-### **大数据开发**
-
-详情链接 **→** [《大数据开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/dm2Qm4zZhHxEvcFgNS_mrA)
-
-![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/bigdata.21roso2lxdsw.png)
-
-> 注：图片上传后可能被压缩，如需无损版高清大图，可去微信公众号「**CodeSheep**」后台回复「**大数据**」三个字获取即可
-
-详情链接 **→** [《大数据开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/dm2Qm4zZhHxEvcFgNS_mrA)
-
-### **嵌入式开发**
-
-详情链接 **→** [《嵌入式开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/AJqbhz3InV3G8TVjTHn6dg)
-
-![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/embed.2kqjbi961600.png)
-
-> 注：图片上传后可能被压缩，如需无损版高清大图，可去微信公众号「**CodeSheep**」后台回复「**嵌入式**」三个字获取即可。
-
-详情链接 **→** [《嵌入式开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/AJqbhz3InV3G8TVjTHn6dg)
-
 ### **C/C++后台开发**
 
 详情链接 **→** [《C/C++（偏后台）开发学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/tXilzUzN7cDhnc3ztw4Vlw)
-
-### **网络安全方向**
-
-详情链接 **→** [《网络安全方向学习路线+知识点大梳理》](https://mp.weixin.qq.com/s/pPs5Gm9I3a6-nMZQ42kaWg)
-
-<!-- tabs:end -->
 
 ---
 # **常用编程软件和工具**
@@ -1477,15 +1433,4 @@
 - [2019-09-08：华科研究生学长想对导师们说的话！](https://mp.weixin.qq.com/s/TO9-kBWKFs2sV1z0Hw3qWw)
 
 ---
-
-## 微信联系
-
-<a name="微信"></a>  <a name="公众号"></a>
-
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/qrcode_for_gh_1537917051d0_258.nd3fymuhyts.jpeg" width=""/>
-    </a>
-</p>
-
 
